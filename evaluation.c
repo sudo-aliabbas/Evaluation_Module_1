@@ -11,7 +11,7 @@ int main(void)
     Q = Q<<1; // Shift 
     A = A-M;
     int i=sizeof(A);
-    printf("%d",A);
+    
 
 
 
